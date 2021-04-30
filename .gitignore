@@ -1,0 +1,4 @@
+#list here which file u dont want to commit
+*.class
+*.txt
+*.exe
