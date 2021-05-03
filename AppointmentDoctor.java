@@ -1,5 +1,8 @@
 class AppointmentDoctor
 {
-//logics here
+	public void doSomething()
+{
+//logic here
+}
 
 }
